@@ -17,19 +17,23 @@ I build complete robots — CAD, electronics, firmware, ROS 2, simulation, perce
 </tr>
 </table>
 
-#### Robotics projects (2024–2026)
+#### ROS 2 projects (2024–2026)
 
-**Mobile robots** — [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) · [Mobi](https://github.com/Curious-Utkarsh/mobi-service-robot) · [Aura](https://github.com/Curious-Utkarsh/aura-mobile-manipulator) · [Bumperbot diff-drive robot](https://github.com/Curious-Utkarsh/bumperbot-diff-drive-robot) · [TurtleBot3 ArUco docking](https://github.com/Curious-Utkarsh/turtlebot3-aruco-docking) · [Zeta mecanum drive](https://github.com/Curious-Utkarsh/zeta-mecanum-robot) · [RF mecanum drive](https://github.com/Curious-Utkarsh/rf-mecanum-drive-robot)
+**Mobile robots** — [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) · [Mobi](https://github.com/Curious-Utkarsh/mobi-service-robot) · [Aura](https://github.com/Curious-Utkarsh/aura-mobile-manipulator) · [Bumperbot diff-drive robot](https://github.com/Curious-Utkarsh/bumperbot-diff-drive-robot) · [TurtleBot3 ArUco docking](https://github.com/Curious-Utkarsh/turtlebot3-aruco-docking) · [Zeta mecanum drive](https://github.com/Curious-Utkarsh/zeta-mecanum-robot)
 
 **Manipulation** — [SCARA conveyor cell](https://github.com/Curious-Utkarsh/scara-pick-and-place) · [Franka colour sorting](https://github.com/MechaMind-Labs/franka-color-sorting-robot) · [Dual-Panda tic-tac-toe](https://github.com/MechaMind-Labs/dual-franka-tic-tac-toe) · [UR5 gesture pick-and-place](https://github.com/MechaMind-Labs/ur5-gesture-pick-and-place) · [3-DOF arm digital twin](https://github.com/MechaMind-Labs/3dof-arm-digital-twin)
 
-**Aerial** — [PX4 drone teleoperation](https://github.com/MechaMind-Labs/px4-drone-teleoperation) · [F450 quadcopter](https://github.com/Curious-Utkarsh/f450-quadcopter-ymfc-al)
+**Aerial** — [PX4 drone teleoperation](https://github.com/MechaMind-Labs/px4-drone-teleoperation)
 
-**Embedded and sensing** — [25 kHz vibration DAQ](https://github.com/Curious-Utkarsh/vibration-daq-teensy-esp32) · [ESP32 EEG recorder](https://github.com/Curious-Utkarsh/esp32-eeg-recorder) · [Wearable BLE telemetry](https://github.com/Curious-Utkarsh/wearable-ble-telemetry) · [micro-ROS gesture robot](https://github.com/MechaMind-Labs/microros-gesture-robot)
+**Embedded + ROS 2** — [micro-ROS gesture robot](https://github.com/MechaMind-Labs/microros-gesture-robot)
 
-**On video only** — [ROS 2 NEMA 23 stepper](https://youtu.be/j9I3mVC0KDk) · [AMR waypoint following](https://youtu.be/Lj2Me5wobXs) · [TurtleSim "Don't Follow Me"](https://youtu.be/qHdLRjSN_5Y)
+**Practice clips** — [ROS 2 Learning and Practice playlist](https://www.youtube.com/playlist?list=PLN6qWSZqM5Og)
 
 **Teaching (MechaMind Labs)** — [Edge-avoiding robot](https://github.com/MechaMind-Labs/edge-avoiding-robot) · [Workshop handout](https://github.com/MechaMind-Labs/edge-avoiding-robot-workshop-guide) · [Arduino joystick → ROS 2](https://github.com/MechaMind-Labs/arduino-joystick-to-ros2) · [ROS 2 with TurtleSim](https://github.com/MechaMind-Labs/ros2-basics-with-turtlesim) · [Original workshop workspace](https://github.com/Curious-Utkarsh/bot_ws) · [TurtleSim workshop package](https://github.com/Curious-Utkarsh/ros2_workshop)
+
+#### Embedded & Electronics (2024–2026)
+
+[25 kHz vibration DAQ](https://github.com/Curious-Utkarsh/vibration-daq-teensy-esp32) · [ESP32 EEG recorder](https://github.com/Curious-Utkarsh/esp32-eeg-recorder) · [Wearable BLE telemetry](https://github.com/Curious-Utkarsh/wearable-ble-telemetry) · [F450 quadcopter](https://github.com/Curious-Utkarsh/f450-quadcopter-ymfc-al) · [RF mecanum drive](https://github.com/Curious-Utkarsh/rf-mecanum-drive-robot)
 
 #### Learning progression
 
@@ -39,7 +43,7 @@ School and college projects (2018–2025) that led into robotics, kept as a reco
 
 **Computer vision** — [Hand gestures](https://github.com/Curious-Utkarsh/Hand-Gesture-Recognition) · [Faces](https://github.com/Curious-Utkarsh/Face-Detection-and-Recognition) · [2D measurement](https://github.com/Curious-Utkarsh/Object-Measurement-2D) · [Drone Hunt](https://github.com/Curious-Utkarsh/Drone-Hunt-Game) · [Hand-controlled Pong](https://github.com/Curious-Utkarsh/openCV_PONG_GAME)
 
-**On video only** — [Smart donation box](https://youtu.be/HNBQBPYtCsg) · [VisiLogic visitor counter](https://youtu.be/4XhamWibspo) · [Gem colour sorter](https://youtu.be/Y6dPEOQY8pM) · [2-axis plotter](https://youtu.be/cNBGbMRSEUY) · [Automatic wire cutter](https://youtu.be/tibNQ6dfs8w)
+**On video only** — [Smart donation box](https://youtu.be/HNBQBPYtCsg) · [VisiLogic visitor counter](https://youtu.be/4XhamWibspo) · [Gem colour sorter](https://youtu.be/Y6dPEOQY8pM) · [Automatic wire cutter](https://youtu.be/tibNQ6dfs8w)
 
 **Learning workspaces and notes** — [ROS 2 learning workspace](https://github.com/Curious-Utkarsh/ROS-2-Basics) · [Manipulator course workspace](https://github.com/Curious-Utkarsh/ROS-2-Manipulator) · [Ubuntu NVIDIA GPU guide](https://github.com/Curious-Utkarsh/ubuntu-nvidia-gpu-setup-for-robotics) · Snippets: [Arduino](https://github.com/Curious-Utkarsh/Arduino-Code-Snippets) · [OpenCV](https://github.com/Curious-Utkarsh/openCV_Code_Snippets) · [Raspberry Pi](https://github.com/Curious-Utkarsh/RaspBerry_Pi_Code_Snippets)
 
@@ -47,4 +51,4 @@ School and college projects (2018–2025) that led into robotics, kept as a reco
 
 ROS 2 · ros2_control · Nav2 · slam_toolbox · MoveIt 2 · Gazebo · PX4 · micro-ROS · OpenCV · MediaPipe · ESP32 · Teensy · Arduino · nRF52840 · FreeRTOS · Python · C++ · Docker · Fusion 360 · 3D printing
 
-[LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [YouTube — my builds](https://www.youtube.com/@kumar_utkarsh) · [YouTube — MechaMind Labs](https://www.youtube.com/@MechaMindLabs) · [Website](https://www.mechamindlabs.com/)
+[LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [YouTube — my builds](https://www.youtube.com/@kumar_utkarsh) · [Build Timeline playlist](https://www.youtube.com/playlist?list=PL1RejoEIpuO19dkhOjBlKdCOOEUHm7sn5) · [YouTube — MechaMind Labs](https://www.youtube.com/@MechaMindLabs) · [Instagram](https://www.instagram.com/utkbuilds/) · [Website](https://www.mechamindlabs.com/)
