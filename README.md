@@ -1,6 +1,6 @@
 ### Kumar Utkarsh
 
-I build complete robots — CAD, electronics, firmware, ROS 2, simulation, perception and autonomy — and run them on real hardware. Founder of [MechaMind Labs](https://www.mechamindlabs.com/); previously Research Assistant in embedded and industrial IoT at IIT Bombay (NCAIR). Working towards manipulation, autonomy and robot learning.
+I build complete robots — CAD, electronics, firmware, ROS 2, simulation, perception and autonomy — and run them on real hardware. Founder & Lead Robotics Engineer at [MechaMind Labs](https://www.mechamindlabs.com/); previously Research Assistant in embedded and industrial IoT at IIT Bombay (NCAIR). Working towards manipulation, autonomy and robot learning.
 
 #### Featured robots
 
