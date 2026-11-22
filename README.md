@@ -1,6 +1,6 @@
 ### Kumar Utkarsh
 
-I build complete robots — CAD, electronics, firmware, ROS 2, simulation, perception and autonomy — and run them on real hardware. Founder & Lead Robotics Engineer at [MechaMind Labs](https://www.mechamindlabs.com/); previously Research Assistant in embedded and industrial IoT at IIT Bombay (NCAIR). Working towards manipulation, autonomy and robot learning.
+I build complete robots — CAD, electronics, firmware, ROS 2, simulation, perception and autonomy — and run them on real hardware. Founder & Lead Robotics Engineer at [MechaMind Labs](https://github.com/MechaMind-Labs); previously Research Assistant in embedded and industrial IoT at IIT Bombay (NCAIR). Working towards manipulation, autonomy and robot learning.
 
 #### Featured robots
 
@@ -51,4 +51,4 @@ School and college projects (2018–2025) that led into robotics, kept as a reco
 
 ROS 2 · ros2_control · Nav2 · slam_toolbox · MoveIt 2 · Gazebo · PX4 · micro-ROS · OpenCV · MediaPipe · ESP32 · Teensy · Arduino · nRF52840 · FreeRTOS · Python · C++ · Docker · Fusion 360 · 3D printing
 
-[Portfolio](https://curious-utkarsh.github.io/) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [YouTube — my builds](https://www.youtube.com/@kumar_utkarsh) · [Build Timeline playlist](https://www.youtube.com/playlist?list=PL1RejoEIpuO19dkhOjBlKdCOOEUHm7sn5) · [YouTube — MechaMind Labs](https://www.youtube.com/@MechaMindLabs) · [Instagram](https://www.instagram.com/utkbuilds/) · [Website](https://www.mechamindlabs.com/)
+[Portfolio](https://curious-utkarsh.github.io/) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/) · [YouTube — my builds](https://www.youtube.com/@kumar_utkarsh) · [Build Timeline playlist](https://www.youtube.com/playlist?list=PL1RejoEIpuO19dkhOjBlKdCOOEUHm7sn5) · [YouTube — MechaMind Labs](https://www.youtube.com/@MechaMindLabs) · [Instagram](https://www.instagram.com/utkbuilds/)
