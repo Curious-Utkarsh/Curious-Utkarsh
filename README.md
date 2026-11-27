@@ -43,7 +43,7 @@ School and college projects (2018–2025) that led into robotics, kept as a reco
 
 **Computer vision** — [Hand gestures](https://github.com/Curious-Utkarsh/Hand-Gesture-Recognition) · [Faces](https://github.com/Curious-Utkarsh/Face-Detection-and-Recognition) · [2D measurement](https://github.com/Curious-Utkarsh/Object-Measurement-2D) · [Drone Hunt](https://github.com/Curious-Utkarsh/Drone-Hunt-Game) · [Hand-controlled Pong](https://github.com/Curious-Utkarsh/openCV_PONG_GAME)
 
-**On video only** — [Smart donation box](https://youtu.be/HNBQBPYtCsg) · [VisiLogic visitor counter](https://youtu.be/4XhamWibspo) · [Gem colour sorter](https://youtu.be/Y6dPEOQY8pM) · [Automatic wire cutter](https://youtu.be/tibNQ6dfs8w)
+**On video only** — [Smart Donation Box](https://youtu.be/HNBQBPYtCsg) · [VisiLogic visitor counter](https://youtu.be/4XhamWibspo) · [Gem colour sorter](https://youtu.be/Y6dPEOQY8pM) · [Automatic wire cutter](https://youtu.be/tibNQ6dfs8w)
 
 **Learning workspaces and notes** — [ROS 2 learning workspace](https://github.com/Curious-Utkarsh/ROS-2-Basics) · [Manipulator course workspace](https://github.com/Curious-Utkarsh/ROS-2-Manipulator) · [Ubuntu NVIDIA GPU guide](https://github.com/Curious-Utkarsh/ubuntu-nvidia-gpu-setup-for-robotics) · Snippets: [Arduino](https://github.com/Curious-Utkarsh/Arduino-Code-Snippets) · [OpenCV](https://github.com/Curious-Utkarsh/openCV_Code_Snippets) · [Raspberry Pi](https://github.com/Curious-Utkarsh/RaspBerry_Pi_Code_Snippets)
 
